@@ -5,3 +5,6 @@ metadata:
 spec: 
    containers:
    - name: first-pod
+     image: docker.io/nginx
+     ports: 
+      - containerPort: 80
