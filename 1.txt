@@ -9,3 +9,4 @@ spec:
      image: docker.io/nginx
      ports: 
       - containerPort: 80
+# Please add lebelson this pod.	priyanshu from linux.
